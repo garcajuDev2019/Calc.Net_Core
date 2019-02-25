@@ -1,0 +1,2 @@
+2019-02-25 12:52:28.517 +01:00[INF]Attempted to divide by zero.
+2019-02-25 12:52:28.600 +01:00[ERR]   at Calculadora.NETCore.Calculadora.Dividir(Int32 num1, Int32 num2) in C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\Calculadora.cs:line 18

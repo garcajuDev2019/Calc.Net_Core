@@ -1,0 +1,12 @@
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\bin\Debug\netcoreapp2.1\Calculadora.NETCore.deps.json
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\bin\Debug\netcoreapp2.1\Calculadora.NETCore.runtimeconfig.json
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\bin\Debug\netcoreapp2.1\Calculadora.NETCore.runtimeconfig.dev.json
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\bin\Debug\netcoreapp2.1\Calculadora.NETCore.dll
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\obj\Debug\netcoreapp2.1\Calculadora.NETCore.csprojAssemblyReference.cache
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\obj\Debug\netcoreapp2.1\Calculadora.NETCore.csproj.CoreCompileInputs.cache
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\obj\Debug\netcoreapp2.1\Calculadora.NETCore.AssemblyInfoInputs.cache
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\obj\Debug\netcoreapp2.1\Calculadora.NETCore.AssemblyInfo.cs
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\bin\Debug\netcoreapp2.1\Calculadora.NETCore.pdb
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\obj\Debug\netcoreapp2.1\Calculadora.NETCore.dll
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\obj\Debug\netcoreapp2.1\Calculadora.NETCore.pdb
+C:\Users\garcaju\source\repos\Calculadora.NETCore\Calculadora.NETCore\bin\Debug\netcoreapp2.1\AppSettings.json
